@@ -1,7 +1,7 @@
 stockoma-vagrant
 ================
 
-Mongo running on port `27019`
+Mongo running on port `27010`
 
 ```
 # Start Mongo
